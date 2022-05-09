@@ -13,7 +13,7 @@
 # Sérgio Oliveira Gonçalves
 <sub> Estudante de Economia e Arquitetura de Dados </sub>
 
-Dei meus primeiros passos na programação em 2013 no curso técnico de eletricista. Nas aulas de eletrônica analógica e digital tive meu primeiro contato com lógica booleana, sistema binário e algoritmos básicos para arduino programados em c++ como o simples blink para controlar leds. Anos mais tarde entrei na universidade no curso de economia a fim de entender mais sobre a relação Brasil, Estado e sociedade e de quebra tive meu segundo contato com programação, dessa vez em R e voltado para análise de dados. Assim me encontrei na ciência de dados formas de explorar e potencializar as análises para explicar o mundo e hoje estou me especializando nessa área pois acredito que o data science tem um potencial incrível para organizar, planejar e tomar decisões.
+Fui introduzido na programação através das aulas de eletrônica analógica e digital no curso de eletricista oferecido pelo SENAI, lá tive meu primeiro contato com lógica booleana, portas lógicas, sistema binárioe algoritmos básicos para arduino em c++ como o blink. Na universidade tive meu segundo contato com programação mas dessa vez como uma ferramenta para auxiliar estudos estatísticos e análise de dados. Hoje estou me especializando na área de análise de dados e tenho skills em limpeza, organização e visualização de datasets, conhecimentos básicos de banco de dados relacionais
 
 **Background in:** ![](https://camo.githubusercontent.com/bd16a09c0ea9b0b7ee8766d187db73f61d5ec35a3c5499119b4d3003c1ee546a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d7953514c2d3333333333333f7374796c653d666c6174266c6f676f3d6d7973716c)
 [![](https://camo.githubusercontent.com/ef8322f0e8a00363aa173e32b66c126f883ec5323898374a755841adf433739e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f522d3237364443333f7374796c653d666f722d7468652d6261646765266c6f676f3d72266c6f676f436f6c6f723d7768697465)](https://www.r-project.org/) 
@@ -26,13 +26,13 @@ Dei meus primeiros passos na programação em 2013 no curso técnico de eletrici
 * [LinkedIn](https://www.linkedin.com/in/sérgio-gonçalves-)
 * [Twitter](https://www.twitter.com/seer_goncalves)
 
+## Atualmente estou estudando:
 
 ## Projetos:
 
 
-* **name:** link
+## * **name:** link
 
-## Atualmente estou estudando:
 
 
 
