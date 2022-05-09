@@ -32,5 +32,8 @@ Dei meus primeiros passos na programação em 2013 no curso técnico de eletrici
 
 * **name:** link
 
+## Atualmente estou estudando:
+
+
 
 ---
