@@ -22,7 +22,7 @@ Dei meus primeiros passos na programação em 2013 no curso técnico de eletrici
 
 
 **Links:**
-* [Blog](http://lnversoes.wordpress.com)
+* [Blog wordpress](http://lnversoes.wordpress.com)
 * [LinkedIn](https://www.linkedin.com/in/sérgio-gonçalves-)
 * [Twitter](https://www.twitter.com/seer_goncalves)
 
@@ -30,7 +30,7 @@ Dei meus primeiros passos na programação em 2013 no curso técnico de eletrici
 ## Projetos:
 
 
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
+* **name:** link
 
 
 ---
