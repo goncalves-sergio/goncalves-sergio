@@ -28,7 +28,9 @@ Fui introduzido na programação através das aulas de eletrônica analógica e 
 
 ## Atualmente estou estudando:
 
+Revisitando conceitos, derivações e teorias da matemática e estatística; Estudando R studio e SQL. 
 
+Futuramente tenho interesse em me aprofundar em Julia devido a facilidade em trabalhar com métodos numéricos e bigdata. 
 
 # Projetos:
 
