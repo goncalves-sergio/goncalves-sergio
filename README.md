@@ -30,7 +30,7 @@ Fui introduzido na programação sem nem saber que estava programando, através 
 
 Revisitando conceitos, derivações e teorias da matemática e estatística para análise de dados; Estudando R, Python e SQL. 
 
-Tenho interesse futuro em aprender Julia devido a facilidade em trabalhar com métodos numéricos e bigdata. 
+Tenho interesse futuro em aprender Julia devido a facilidade em trabalhar com métodos numéricos e grandes volumes de dados.
 
 # Projetos:
 
