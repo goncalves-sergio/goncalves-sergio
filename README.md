@@ -35,9 +35,13 @@ Tenho interesse futuro em aprender Julia devido a facilidade em trabalhar com m�
 # Projetos:
 
 
-## * [**Pré processamento e limpeza dos dados do Enem 2019**](https://github.com/goncalves-sergio/Pre_Processamento_Enem2019)
+ * [**Pré processamento e limpeza dos dados do Enem 2019**](https://github.com/goncalves-sergio/Pre_Processamento_Enem2019)
 
 
+
+
+# Outros Artigos:
+* [**Lógica Proposicional: Alfabeto, Sintaxe e Gramática**](https://lnversoes.wordpress.com/2022/07/28/logica-alfabeto-sintaxe-e-gramatica-da-logica-proposicional-part1/)
 
 
 ---
