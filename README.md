@@ -11,7 +11,7 @@
 </p>
 
 # Sérgio Oliveira Gonçalves
-<sub> Estudante de Economia e Arquitetura de Dados </sub>
+<sub> Economista estudante de Matemática e Arquitetura de Dados </sub>
 
 Fui introduzido na programação sem nem saber que estava programando. Através das aulas de eletrônica analógica e digital, no curso de eletricista oferecido pelo SENAI em 2013, tive meu primeiro contato com lógica booleana, portas lógicas, sistema binário e algoritmos básicos para arduino em c++ no blink. Na universidade tive meu segundo contato com programação mas dessa vez como uma ferramenta para auxiliar estudos estatísticos e análise de dados.
 
