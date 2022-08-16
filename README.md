@@ -13,7 +13,10 @@
 # Sérgio Oliveira Gonçalves
 <sub> Estudante de Economia e Arquitetura de Dados </sub>
 
-Fui introduzido na programação sem nem saber que estava programando, através das aulas de eletrônica analógica e digital, no curso de eletricista oferecido pelo SENAI em 2013, tive meu primeiro contato com lógica booleana, portas lógicas, sistema binário e algoritmos básicos para arduino em c++ como o blink. Na universidade tive meu segundo contato com programação mas dessa vez como uma ferramenta para auxiliar estudos estatísticos e análise de dados. Tenho skills em limpeza, organização, visualização, mineração de dados e conhecimentos de banco de dados relacionais.
+Fui introduzido na programação sem nem saber que estava programando. Através das aulas de eletrônica analógica e digital, no curso de eletricista oferecido pelo SENAI em 2013, tive meu primeiro contato com lógica booleana, portas lógicas, sistema binário e algoritmos básicos para arduino em c++ no blink. Na universidade tive meu segundo contato com programação mas dessa vez como uma ferramenta para auxiliar estudos estatísticos e análise de dados.
+
+
+Tenho skills em limpeza, organização, visualização, mineração de dados, banco de dados relacionais e multidimensional.
 
 **Ferramentas:** 
 [![](https://camo.githubusercontent.com/ef8322f0e8a00363aa173e32b66c126f883ec5323898374a755841adf433739e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f522d3237364443333f7374796c653d666f722d7468652d6261646765266c6f676f3d72266c6f676f436f6c6f723d7768697465)](https://www.r-project.org/) 
@@ -28,9 +31,9 @@ Fui introduzido na programação sem nem saber que estava programando, através 
 
 ## Atualmente estou estudando:
 
-Revisitando conceitos, derivações e teorias da matemática e estatística para análise de dados; Estudando R, Python e SQL. 
+R, Python, T-SQL e finanças. 
 
-Tenho interesse futuro em aprender Julia devido a facilidade em trabalhar com métodos numéricos e grandes volumes de dados.
+Tenho interesse futuro em aprender Julia devido a facilidade em trabalhar com métodos numéricos aplicado a grande volume de dados.
 
 # Projetos:
 
