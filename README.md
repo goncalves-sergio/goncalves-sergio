@@ -19,7 +19,7 @@ Fui introduzido na programação sem nem saber que estava programando. Através 
 Tenho skills em limpeza, organização, visualização, mineração de dados, banco de dados relacionais e multidimensional.
 
 **Ferramentas:** 
-[![](https://camo.githubusercontent.com/ef8322f0e8a00363aa173e32b66c126f883ec5323898374a755841adf433739e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f522d3237364443333f7374796c653d666f722d7468652d6261646765266c6f676f3d72266c6f676f436f6c6f723d7768697465)](https://www.r-project.org/) 
+[![](file:///C:/Users/sergi/Downloads/geticon-master/geticon-master/icons/r-lang.svg](https://www.r-project.org/)
 ![](https://camo.githubusercontent.com/53b1030248fd0f64a5b70e56819acd0c8caadcd302335cbf0e4367a6c1603b65/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f77657242492d4632433831313f7374796c653d666f722d7468652d6261646765266c6f676f3d506f7765722532304249266c6f676f436f6c6f723d7768697465)
 ![](https://camo.githubusercontent.com/bd16a09c0ea9b0b7ee8766d187db73f61d5ec35a3c5499119b4d3003c1ee546a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d7953514c2d3333333333333f7374796c653d666c6174266c6f676f3d6d7973716c)
 
