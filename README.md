@@ -14,10 +14,10 @@
 # Sérgio Oliveira Gonçalves
 <sub> Economista e estudante Arquitetura de Dados </sub>
 
-Fui introduzido na programação sem nem saber que estava programando. Através das aulas de eletrônica analógica e digital, no curso de eletricista oferecido pelo SENAI em 2013, tive meu primeiro contato com lógica booleana, portas lógicas, sistema binário e algoritmos básicos para arduino em c++ no blink. Na universidade tive meu segundo contato com programação mas dessa vez como uma ferramenta para auxiliar estudos estatísticos e análise de dados.
+Fui introduzido na programação sem nem saber que estava programando. Através das aulas de eletrônica analógica e digital, no curso de eletricista oferecido pelo SENAI em 2013, tive meu primeiro contato com lógica booleana, portas lógicas, sistema binário e algoritmos básicos para arduino em C#. Na universidade tive meu segundo contato com programação mas dessa vez como uma ferramenta para auxiliar estudos estatísticos e análise de dados.
 
 
-Tenho skills em limpeza, organização, visualização, mineração de dados, banco de dados relacionais e multidimensional.
+Tenho skills em análise de dados e engenharia de dados.
 
 ***Ferramentas:***
 <a href="https://www.aws.amazon.com/pt/" title="AWS"><img src="https://github.com/get-icon/geticon/raw/master/icons/aws.svg" alt="AWS" width="30px" height="30px"></a>
@@ -34,9 +34,10 @@ Tenho skills em limpeza, organização, visualização, mineração de dados, ba
 * [LinkedIn](https://www.linkedin.com/in/sérgio-gonçalves-)
 * [Twitter](https://www.twitter.com/seer_goncalves)
 
+
 ## Atualmente estou estudando:
 
-Python, Spark, Terraform, AWS, Modelos de FORECASTING e Contabilidade gerencial. 
+Python, Spark, Terraform, Shell Script Linux, AWS, Modelos de FORECASTING e Contabilidade gerencial. 
 
 # Projetos:
 
