@@ -11,7 +11,7 @@
 </p>
 
 # Sérgio Oliveira Gonçalves
-<sub> Economista estudante de Matemática e Arquitetura de Dados </sub>
+<sub> Economista e estudante Arquitetura de Dados </sub>
 
 Fui introduzido na programação sem nem saber que estava programando. Através das aulas de eletrônica analógica e digital, no curso de eletricista oferecido pelo SENAI em 2013, tive meu primeiro contato com lógica booleana, portas lógicas, sistema binário e algoritmos básicos para arduino em c++ no blink. Na universidade tive meu segundo contato com programação mas dessa vez como uma ferramenta para auxiliar estudos estatísticos e análise de dados.
 
@@ -31,9 +31,7 @@ Tenho skills em limpeza, organização, visualização, mineração de dados, ba
 
 ## Atualmente estou estudando:
 
-R, Python, T-SQL e finanças. 
-
-Tenho interesse futuro em aprender Julia devido a facilidade em trabalhar com métodos numéricos aplicado a grande volume de dados.
+Python, Spark, Terraform, AWS, Modelos de FORECASTING e Contabilidade gerencial. 
 
 # Projetos:
 
@@ -45,6 +43,6 @@ Tenho interesse futuro em aprender Julia devido a facilidade em trabalhar com m�
 
 # Outros Artigos:
 * [**Lógica Proposicional: Alfabeto, Sintaxe e Gramática**](https://lnversoes.wordpress.com/2022/07/28/logica-alfabeto-sintaxe-e-gramatica-da-logica-proposicional-part1/)
-
+* [**Algebra Linear e a ciência da melhor aproximação part1**](https://lnversoes.wordpress.com/2022/08/03/algebra-linear-e-a-ciencia-da-melhor-aproximacao-o-metodo-dos-minimos-quadrados-ordinarios-part-1/)
 
 ---
