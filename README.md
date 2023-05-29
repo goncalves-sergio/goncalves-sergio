@@ -37,7 +37,7 @@ Tenho skills em análise e engenharia de dados.
 
 ## Atualmente estou estudando:
 
-Python, Spark, Terraform, Shell Script Linux, AWS, Modelos de Forecast e Contabilidade gerencial. 
+Python, Spark, AWS, Modelos de Forecast e Contabilidade gerencial. 
 
 # Projetos:
 
