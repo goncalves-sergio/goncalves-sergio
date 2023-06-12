@@ -23,7 +23,6 @@ Tenho skills em análise e engenharia de dados.
 <a href="https://www.aws.amazon.com/pt/" title="AWS"><img src="https://github.com/get-icon/geticon/raw/master/icons/aws.svg" alt="AWS" width="30px" height="30px"></a>
 <a href="https://www.python.org/" title="PITÃO"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="python" width="30px" height="30px"></a>
 <a href="https://www.r-project.org/" title="R"><img src="https://github.com/get-icon/geticon/raw/master/icons/r-lang.svg" alt="r" width="30px" height="30px"></a>
-<a href="https://www.terraform.io/" title="terraform"><img src="https://github.com/get-icon/geticon/raw/master/icons/terraform.svg" alt="terraform" width="30px" height="30px"></a>
 <a href="https://www.linux.org/" title="linux"><img src="https://github.com/get-icon/geticon/raw/master/icons/linux-tux.svg" alt="linux" width="30px" height="30px"></a>
 <a href="https://www.tableau.com/pt-br" title="tableu"><img src="https://github.com/get-icon/geticon/raw/master/icons/tableau-icon.svg" alt="tableau" width="30px" height="30px"></a>![](https://camo.githubusercontent.com/53b1030248fd0f64a5b70e56819acd0c8caadcd302335cbf0e4367a6c1603b65/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f77657242492d4632433831313f7374796c653d666f722d7468652d6261646765266c6f676f3d506f7765722532304249266c6f676f436f6c6f723d7768697465)
 
